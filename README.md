@@ -1,6 +1,6 @@
 # Hi 👋, I'm Amrita Kumari
 
-🎓 BCA Student at Eternal University (Akhal College of Engineering & Technology)  
+🎓 BCA Student at Eternal University (Akal College of Engineering & Technology)  
 💻 Full Stack Developer (Frontend-focused)  
 🌱 Passionate about building scalable, user-friendly web applications  
 

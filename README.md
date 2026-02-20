@@ -14,6 +14,9 @@ Motivated BCA student with a strong focus on frontend development and growing ex
 **🛠️ TECHNICAL SKILLS**
 
 **Frontend**: HTML, CSS, JavaScript, React (learning), React Native (learning)
+
 **Backend**: Node.js, Express.js (learning)
+
 **Database**: MongoDB (learning)
+
 **Tools**: Git, GitHub, VS Code, Figma, Canva

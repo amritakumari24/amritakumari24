@@ -1,62 +1,35 @@
 # Hi 👋, I'm Amrita Kumari
 
-🎓 BCA Student at Eternal University (Akal College of Engineering & Technology)  
-💻 Full Stack Developer (Frontend-focused)  
-🌱 Passionate about building scalable, user-friendly web applications  
+BCA Student | Aspiring Full Stack Developer (MERN)
+Eternal University (Akal College of Engineering & Technology)
+Himachal Pradesh, India
 
----
+CONNECT WITH ME
+<p align="left">
+  <a href="https://www.linkedin.com/in/amrita-kumari-7b1324338/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/amritakumari24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:amritakumari8871@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## 🚀 About Me
-- 🔭 Currently working on **web development projects**
-- 🌱 Learning **React, Node.js & Backend Development**
-- 👩‍💻 Interested in **Full Stack Development**
-- 🎯 Goal: Become a skilled **MERN Stack Developer**
-- 📍 Himachal Pradesh, India
 
----
 
-## 🛠️ Tech Stack
+Professional Summary
 
-### 🌐 Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- React (learning)
+Motivated BCA student with a strong focus on frontend development and growing experience in full stack web technologies. Passionate about building clean, scalable, and user-friendly web applications while continuously learning modern development practices.
 
-### ⚙️ Backend
-- Node.js (learning)
-- Express.js (learning)
+Technical Skills
 
-### 🗄️ Database
-- MongoDB (learning)
+Frontend: HTML, CSS, JavaScript, React (learning), ReactNative(Learning)
+Backend: Node.js, Express.js (learning)
+Database: MongoDB (learning)
+Tools: Git, GitHub, VS Code,Figma, Canva
+--
 
-### 🔧 Tools
-- Git & GitHub  
-- VS Code  
-
----
-
-## 📌 Featured Projects
-- 🔢 **Calculator App** – JavaScript-based calculator  
-- 🎮 **Riddle Game** – Interactive game using HTML & CSS  
-- 📘 **Learning Website** – Educational platform frontend  
-- 🧮 **Advanced Calculator** – Enhanced calculator with JS logic  
-
-👉 Explore my repositories to see more projects!
-
----
-
-## 📈 What I’m Currently Learning
-- React.js
-- Backend APIs
-- Database integration
-- Full Stack project development
-
----
-
-## 📫 Connect With Me
-- GitHub: [github.com/amritakumari24](https://github.com/amritakumari24)
-
----
-
-⭐ If you like my work, consider starring my repositories!

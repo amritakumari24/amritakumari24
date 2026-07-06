@@ -1,6 +1,6 @@
 # Hi 👋, I'm Amrita Kumari
 
-BCA Student (2nd Year) | Aspiring Full Stack Developer (MERN)
+BCA Student (final year) | Aspiring Full Stack Developer (MERN)
 And App Developer 
 Eternal University (Akal College of Engineering & Technology)
 Himachal Pradesh, India

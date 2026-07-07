@@ -29,7 +29,7 @@ Motivated BCA student with a strong focus on frontend development and growing ex
 
 **💼 EXPERIENCE**
 
-Currently working as a **Frontend Developer** Intern at SetuMesh for 6 months
+ 2 Months exprience of Frontend Developer at SetuMesh
 
 Completed a 3-month **React Bootcamp** at NavGurukul
 

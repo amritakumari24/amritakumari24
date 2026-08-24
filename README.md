@@ -1,6 +1,6 @@
 # Hi 👋, I'm Amrita Kumari
 
-BCA Student (final year) | Aspiring Full Stack Developer (MERN)
+BCA Student (final year) | Full Stack Developer (MERN)
 And App Developer 
 Eternal University (Akal College of Engineering & Technology)
 Himachal Pradesh, India
@@ -29,7 +29,7 @@ Motivated BCA student with a strong focus on frontend development and growing ex
 
 **💼 EXPERIENCE**
 
- 2 Months exprience of Frontend Developer at SetuMesh
+ 3 Months exprience of Frontend Developer at SetuMesh
 
 Completed a 3-month **React Bootcamp** at NavGurukul
 

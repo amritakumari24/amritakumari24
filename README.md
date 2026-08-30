@@ -12,7 +12,7 @@ Himachal Pradesh, India
 
 **👩‍💻 PROFESSIONAL SUMMARY**
 
-Motivated BCA student with a strong focus on frontend development and growing experience in full stack web technologies. Passionate about building clean, scalable, and user-friendly web applications while continuously learning modern development practices.
+BCA student with a strong focus on frontend development and growing experience in full stack web technologies. Building clean, scalable, and user-friendly web applications while continuously learning modern development practices.
 <hr>
 
 **🛠️ TECHNICAL SKILLS**

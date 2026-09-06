@@ -23,15 +23,13 @@ BCA student with a strong focus on frontend development and growing experience i
 
 **Database**: MongoDB (learning)
 
-**Tools**: Git, GitHub, VS Code, Figma, Canva
+**Tools**: Git, GitHub, VS Code, Figma, Canva, Chatgpt, Gemini, Antigravity
 
 <hr>
 
 **💼 EXPERIENCE**
 
  3 Months exprience of Frontend Developer at SetuMesh
-
-Completed a 3-month **React Bootcamp** at NavGurukul
 
 <hr>
 

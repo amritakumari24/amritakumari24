@@ -25,6 +25,8 @@ BCA student with a strong focus on frontend development and growing experience i
 
 **Tools**: Git, GitHub, VS Code, Figma, Canva, Chatgpt, Gemini, Antigravity
 
+**Cloud** : AWS(EC2, S3, CloudFront)
+
 <hr>
 
 **💼 EXPERIENCE**

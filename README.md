@@ -19,7 +19,7 @@ BCA student with a strong focus on frontend development and growing experience i
 
 **Frontend**: HTML, CSS, JavaScript, React, React Native, Python, Flask
 
-**Backend**: Node.js, Express.js, Fastapi
+**Backend**: Node.js, Express.js, Fastapi, Socket Io
 
 **Database**: MongoDB, PoatgresSQL
 

@@ -12,12 +12,12 @@ Himachal Pradesh, India
 
 **👩‍💻 PROFESSIONAL SUMMARY**
 
-BCA student with a strong focus on frontend development and growing experience in full stack web technologies. Building clean, scalable, and user-friendly web applications while continuously learning modern development practices.
+Final year BCA student with a strong focus on frontend development and growing experience in full stack web technologies. Building clean, scalable, and user-friendly web applications while continuously learning modern development practices.
 <hr>
 
 **🛠️ TECHNICAL SKILLS**
 
-**Frontend**: HTML, CSS, JavaScript, React, React Native, Python, Flask
+**Frontend**: HTML, CSS, JavaScript, React, React Native, Python, Flask, Expo 
 
 **Backend**: Node.js, Express.js, Fastapi, Socket Io
 
@@ -36,11 +36,5 @@ BCA student with a strong focus on frontend development and growing experience i
 <hr>
 
 **📌 PROJECTS**
-
-- 🔢 **Calculator App** – JavaScript-based calculator
- 
-- 🎮 **Riddle Game** – Interactive game using HTML & CSS
    
-- 📘 **Learning Website** – Educational platform frontend
-    
-- 🧮 **Advanced Calculator** – Enhanced calculator with JS logic
+

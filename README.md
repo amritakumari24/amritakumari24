@@ -11,8 +11,7 @@ Himachal Pradesh, India
 <hr>
 
 **👩‍💻 PROFESSIONAL SUMMARY**
-
-Final year BCA student with a strong focus on frontend development and growing experience in full stack web technologies. Building clean, scalable, and user-friendly web applications while continuously learning modern development practices.
+Full Stack Developer and AI Engineer with hands-on experience in React.js, React Native, Python, Flask, REST APIs, and modern web and mobile application development. Skilled in AI/ML, Generative AI, debugging, API integration, and building scalable, user-focused software solutions.
 <hr>
 
 **🛠️ TECHNICAL SKILLS**

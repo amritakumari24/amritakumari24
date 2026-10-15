@@ -36,5 +36,14 @@ Final year BCA student with a strong focus on frontend development and growing e
 <hr>
 
 **📌 PROJECTS**
+
+### 🤖 AI-Assisted Leave Management System
+Developed a leave management system with RESTful APIs using Python, Flask, and Express.js, featuring automated leave processing, custom DSA-based evaluation logic, database operations, and JWT-based authentication.
+
+### 🏥 Healthcare Appointment & Records Portal
+Built a responsive healthcare portal with appointment booking, patient routing, lazy loading, and optimized client-side data handling, using application state management to ensure consistent booking workflows.
+
+### 🐰 KidChatBot — AI-Powered Learning Assistant
+Built a child-friendly AI chatbot using React, Vite, FastAPI, and the Groq API, featuring age-appropriate responses, voice interaction, text-to-speech, Markdown rendering, chat history, and responsive light/dark themes.
    
 

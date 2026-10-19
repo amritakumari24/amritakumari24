@@ -43,7 +43,7 @@ Full Stack Developer and AI Engineer with hands-on experience in React.js, React
 
 **💼 EXPERIENCE**
 
- 3 Months exprience of Frontend Developer at SetuMesh
+ 4 Months exprience of Frontend Developer at SetuMesh
 
 <hr>
 

@@ -29,7 +29,7 @@ Full Stack Developer and AI Engineer with hands-on experience in React.js, React
 
 **🛠️ TECHNICAL SKILLS**
 
-**Frontend**: HTML, CSS, JavaScript, React, React Native, Python, Expo , Bootstrap, Tailwind ,Bootstrap
+**Frontend**: HTML, CSS, JavaScript, React, React Native, Python, Expo , Bootstrap, Tailwind
 
 **Backend**: Node.js, Express.js, Socket Io
 
@@ -39,7 +39,7 @@ Full Stack Developer and AI Engineer with hands-on experience in React.js, React
 
 **Cloud** : AWS(EC2, S3, CloudFront)
 
-**AI/ML** : LLMs, Fastapi, Flask, GenrativeAI
+**AI/ML** : LLMs, Fastapi, GenrativeAI
 
 <hr>
 

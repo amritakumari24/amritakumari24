@@ -1,7 +1,6 @@
 # Hi 👋, I'm Amrita Kumari
 
 BCA Student (final year) | Full Stack Developer (MERN)
-And App Developer 
 Eternal University (Akal College of Engineering & Technology)
 Himachal Pradesh, India
 <hr>
@@ -35,7 +34,7 @@ Full Stack Developer and AI Engineer with hands-on experience in React.js, React
 
 **Database**: MongoDB, PoatgresSQL
 
-**Tools**: Git, GitHub, VS Code, Figma, Canva, Chatgpt, Gemini, Antigravity, Postman
+**Tools**: Git, GitHub, VS Code, Chatgpt, Gemini, Antigravity, Postman
 
 **Cloud** : AWS(EC2, S3, CloudFront)
 

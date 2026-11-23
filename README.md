@@ -1,4 +1,4 @@
-# Hi 👋, I'm Amrita Kumari
+# Hi 👋, I'm Amrita Pandit
 
 BCA Student (final year) | Full Stack Developer (MERN)
 Eternal University (Akal College of Engineering & Technology)
